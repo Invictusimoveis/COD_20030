@@ -1,0 +1,34 @@
+#: locale=pt
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_727371F7_6253_A0A0_41C2_4AB4C37214BA.toolTip = Entrada principal
+HotspotPanoramaOverlayArea_71B05E9E_625F_636C_41AC_0DD7B60A196C.toolTip = Saída área de serviço
+HotspotPanoramaOverlayArea_78166D04_6273_A138_419A_70D3DEE2DB0A.toolTip = Vista para a avenida Pereira Barreto
+
+## Media
+
+### Title
+panorama_6CC14F7D_61B5_A19D_41CA_6D80C64B4FDA.label = 1
+panorama_6D18860B_61B4_E365_41D0_FD3F8FA36250.label = 11
+panorama_6D18EE9A_61B4_E367_41B9_04A6B55590B9.label = 12
+panorama_6D18971F_61B4_E19D_41C0_2552E0919D9E.label = 13
+panorama_6D18FFC9_61B4_E0E5_4199_2F5AEC2F2264.label = 14
+panorama_6D18881F_61B4_AF9D_41CB_56EEA6A97E1F.label = 15
+panorama_6D1740F9_61B4_A0A5_41C3_A7AE78E0A030.label = 16
+panorama_6D19982F_61B5_AFBD_4190_275D8A0E4D7B.label = 2
+panorama_6D1820C3_61B5_60E5_41CD_728A48AF654D.label = 3
+panorama_6D19D939_61B5_61A4_41D1_3570D198FAF2.label = 4
+panorama_6D19B217_61B5_636C_41CE_07A32142D629.label = 5
+panorama_6D197AF2_61B5_60A4_41C7_B1269D8C5674.label = 6
+panorama_6D18635A_61B4_A1E7_41BE_EAAFB3230EC6.label = 7
+panorama_6D187C41_61B4_A7E5_41D6_1D8A2D8E2BD4.label = 8
+panorama_6D1864A7_61B4_A0AD_41D8_71CD7EB14E48.label = 9
+
+## Tour
+
+### Description
+
+### Title
+tour.name = AVANHANDAVA_20030
